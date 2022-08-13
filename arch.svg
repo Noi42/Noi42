@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="6.3500061mm"
+   height="6.0298462mm"
+   viewBox="0 0 6.3500061 6.0298462"
+   version="1.1"
+   id="svg1"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-78.511537,-120.04486)">
+    <title
+       id="title1">Rust</title>
+    <title
+       id="title1-6">Visual Studio Code</title>
+    <title
+       id="title1-7">Arch Linux</title>
+    <path
+       d="m 81.525141,120.04485 c -0.268288,0.65802 -0.430213,1.08876 -0.728928,1.72694 0.183357,0.1942 0.408253,0.42042 0.773378,0.67574 -0.392642,-0.16139 -0.6604,-0.32385 -0.860425,-0.49212 -0.382588,0.79798 -0.981605,1.93463 -2.19763,4.11929 0.955675,-0.55165 1.696509,-0.89164 2.386807,-1.02182 a 1.7488958,1.7488958 0 0 1 -0.04524,-0.40931 l 7.94e-4,-0.0304 c 0.01534,-0.61251 0.333639,-1.08347 0.710935,-1.05119 0.377296,0.0318 0.670454,0.55456 0.655638,1.16654 a 1.7250833,1.7250833 0 0 1 -0.03863,0.32888 c 0.682625,0.13362 1.41605,0.47281 2.358496,1.01706 -0.185737,-0.34211 -0.351896,-0.65061 -0.510381,-0.94456 -0.249502,-0.19315 -0.509588,-0.44503 -1.040606,-0.71782 0.365125,0.095 0.626268,0.20426 0.829998,0.3265 -1.611313,-2.99879 -1.741488,-3.39725 -2.293938,-4.69371 z m 3.044825,5.49143 v -0.16484 h -0.06191 v -0.0222 h 0.148695 v 0.0222 h -0.06191 v 0.16484 h 0.08758 v -0.18706 h 0.03757 l 0.04418,0.13229 0.009,0.0283 a 0.59795833,0.59795833 0 0 1 0.01005,-0.0302 l 0.04498,-0.13044 h 0.03334 v 0.18706 h -0.02408 v -0.1569 l -0.0545,0.1569 h -0.02223 l -0.05424,-0.15928 v 0.15928 h -0.02408"
+       id="path1-0"
+       style="stroke-width:0.264583" />
+  </g>
+</svg>

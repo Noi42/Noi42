@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="6.3500977mm"
+   height="6.316925mm"
+   viewBox="0 0 6.3500977 6.316925"
+   version="1.1"
+   id="svg1"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-68.912904,-126.86755)">
+    <title
+       id="title1">Rust</title>
+    <title
+       id="title1-6">Visual Studio Code</title>
+    <path
+       d="m 75.038103,127.53562 -1.307042,-0.62892 a 0.3952875,0.3952875 0 0 0 -0.451114,0.0767 l -2.502959,2.28335 -1.090083,-0.82761 a 0.26431875,0.26431875 0 0 0 -0.337608,0.0151 l -0.349779,0.31803 a 0.26458333,0.26458333 0 0 0 -2.65e-4,0.39132 l 0.945356,0.86254 -0.945356,0.86254 a 0.26458333,0.26458333 0 0 0 2.65e-4,0.39132 l 0.350043,0.31776 a 0.26431875,0.26431875 0 0 0 0.337609,0.0151 l 1.090083,-0.82761 2.502958,2.28335 a 0.39475833,0.39475833 0 0 0 0.45085,0.0767 l 1.307571,-0.62891 a 0.396875,0.396875 0 0 0 0.224367,-0.35772 v -4.26535 a 0.396875,0.396875 0 0 0 -0.224896,-0.35771 z m -1.361546,3.93197 -1.899179,-1.44145 1.899179,-1.44145 z"
+       id="path1-2"
+       style="stroke-width:0.264583" />
+  </g>
+</svg>
